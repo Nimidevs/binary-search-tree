@@ -1,0 +1,28 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "implementing a Binary search tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimidevs/binary-search-tree.git"
+  },
+  "author": "NimiDevs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nimidevs/binary-search-tree/issues"
+  },
+  "homepage": "https://github.com/Nimidevs/binary-search-tree#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.0.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
